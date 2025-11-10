@@ -12,4 +12,4 @@ This document shows which JavaScript file contains the solution for each questio
 | 06           | Character Type Detector                         | `charType.js`         |
 | 07           | Income Tax Calculator                           | `incomeTax.js`        |
 
-### other => "Raviranjan kumar ❤️"
+### Other => "Raviranjan kumar ❤️"
